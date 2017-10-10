@@ -73,7 +73,7 @@ The data exchanged between the central server and the web server transferred as 
 
 * **Tal Sahar** - *Software Developer* - [TalSahar](https://github.com/talsahar)
 
-###  [Presentation](https://drive.google.com/file/d/0B0VvuCx10Ud_WkdJQlhyZzNjWVk/view?usp=sharing) - You can check the PowerPoint presentation 
+###  [Presentation](https://drive.google.com/file/d/0B0VvuCx10Ud_UXRrNzRXeXd0Qms/view?usp=sharing) - You can check the PowerPoint presentation 
 
 ###  [Download](https://drive.google.com/file/d/0B0VvuCx10Ud_WkdJQlhyZzNjWVk/view?usp=sharing) - Windows 32/64 bit
 
