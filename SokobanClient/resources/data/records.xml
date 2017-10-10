@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="model.streamtypes.RecordList" id="RecordList0">
+  <void property="list">
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level1</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>38</int>
+     </void>
+     <void property="time">
+      <int>9</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level10</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>41</int>
+     </void>
+     <void property="time">
+      <int>22</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level2</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>25</int>
+     </void>
+     <void property="time">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level3</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>53</int>
+     </void>
+     <void property="time">
+      <int>25</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level4</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>30</int>
+     </void>
+     <void property="time">
+      <int>19</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level5</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>47</int>
+     </void>
+     <void property="time">
+      <int>41</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level6</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>61</int>
+     </void>
+     <void property="time">
+      <int>26</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level7</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>50</int>
+     </void>
+     <void property="time">
+      <int>18</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level8</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>65</int>
+     </void>
+     <void property="time">
+      <int>34</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.streamtypes.Record">
+     <void property="lvlName">
+      <string>Level9</string>
+     </void>
+     <void property="name">
+      <string>Tal</string>
+     </void>
+     <void property="steps">
+      <int>26</int>
+     </void>
+     <void property="time">
+      <int>32</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

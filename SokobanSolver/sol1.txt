@@ -1,0 +1,22 @@
+1497018686393
+move down
+move right
+move right
+move right
+move right
+move up
+move right
+move right
+move down
+move left
+move left
+move up
+move left
+move down
+move left
+move down
+move down
+move right
+move down
+move right
+move right

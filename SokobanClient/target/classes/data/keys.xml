@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_144" class="java.beans.XMLDecoder">
+ <object class="model.keys.SokobanKeys">
+  <void property="down">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>javafx.scene.input.KeyCode</class>
+    <string>DOWN</string>
+   </object>
+  </void>
+  <void property="left">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>javafx.scene.input.KeyCode</class>
+    <string>LEFT</string>
+   </object>
+  </void>
+  <void property="restart">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>javafx.scene.input.KeyCode</class>
+    <string>R</string>
+   </object>
+  </void>
+  <void property="right">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>javafx.scene.input.KeyCode</class>
+    <string>RIGHT</string>
+   </object>
+  </void>
+  <void property="up">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>javafx.scene.input.KeyCode</class>
+    <string>UP</string>
+   </object>
+  </void>
+ </object>
+</java>
