@@ -6,8 +6,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 /**
  * 
- * A web server which connected to the central server, provides
- * all the online services for Sokoban users. 
+ * A web server provides all the online services for Sokoban users. 
  * 
  * Sokoban Web Server based on a restful approach, written by using the jersey
  *  framework which provides a great web server API for developers.
